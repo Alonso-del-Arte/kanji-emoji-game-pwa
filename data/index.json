@@ -1,0 +1,10 @@
+[
+  {
+    "category": "Geographical Features",
+    "file": "geography.json"
+  },
+  {
+    "category": "The Human Body",
+    "file": "humanbody.json"
+  }
+]
