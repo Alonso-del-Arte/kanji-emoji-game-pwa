@@ -4,5 +4,29 @@
     "hiragana": "め",
     "emoji": "👁️",
     "word": "eye"
+  },
+  {
+    "kanji": "鼻",
+    "hiragana": "はな",
+    "emoji": "👃",
+    "word": "nose"
+  },
+  {
+    "kanji": "耳",
+    "hiragana": "みみ",
+    "emoji": "👂",
+    "word": "ear"
+  },
+  {
+    "kanji": "心",
+    "hiragana": "こころ",
+    "emoji": "❤️",
+    "word": "heart"
+  },
+  {
+    "kanji": "手",
+    "hiragana": "て",
+    "emoji": "🖐️",
+    "word": "hand"
   }
 ]
