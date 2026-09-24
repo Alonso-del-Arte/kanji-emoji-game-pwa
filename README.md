@@ -15,4 +15,6 @@ will be matching '&#x5C71;' and '&#x1F3D4;'.
 
 For the Android version, I was using Kotlin Multiplatform, which I'm aware can 
 also do iOS. But I might continue working on the iOS version separately in 
-Xcode.
+Xcode. Or maybe I'll just focus on this progressive web app and not worry about 
+trying to do this native, especially because of all the Gradle headaches with 
+Kotlin Multiplatform.
