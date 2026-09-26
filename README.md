@@ -13,6 +13,9 @@ two of the same item, it's going to be kanji and emoji. For example, rather than
 matching '&#x5C71;' and '&#x5C71;', or '&#x1F3D4;' and '&#x1F3D4;', this game 
 will be matching '&#x5C71;' and '&#x1F3D4;'.
 
+When the player clicks on a kanji tile, there will be a bar at the bottom 
+showing the word in hiragana.
+
 For the Android version, I was using Kotlin Multiplatform, which I'm aware can 
 also do iOS. But I might continue working on the iOS version separately in 
 Xcode. Or maybe I'll just focus on this progressive web app and not worry about 
