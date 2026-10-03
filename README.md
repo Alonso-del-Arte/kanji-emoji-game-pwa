@@ -14,7 +14,8 @@ matching '&#x5C71;' and '&#x5C71;', or '&#x1F3D4;' and '&#x1F3D4;', this game
 will be matching '&#x5C71;' and '&#x1F3D4;'.
 
 When the player clicks on a kanji tile, there will be a bar at the bottom 
-showing the word in hiragana.
+showing the word in hiragana. Likewise, when the player clicks on an emoji tile, 
+there will be a bar at the bottom showing the word in English.
 
 For the Android version, I was using Kotlin Multiplatform, which I'm aware can 
 also do iOS. But I might continue working on the iOS version separately in 
