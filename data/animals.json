@@ -1,37 +1,37 @@
 [
   {
     "kanji": "猫",
-    "hiragana": "ねこ",
+    "kana": "ねこ",
     "emoji": "😺",
     "word": "cat"
   },
   {
     "kanji": "犬",
-    "hiragana": "いぬ",
+    "kana": "いぬ",
     "emoji": "🐶",
     "word": "dog"
   },
   {
     "kanji": "龍",
-    "hiragana": "りゅ",
+    "kana": "りゅ",
     "emoji": "🐉",
     "word": "dragon"
   },
   {
     "kanji": "馬",
-    "hiragana": "うま",
+    "kana": "うま",
     "emoji": "🐎",
     "word": "horse"
   },
   {
     "kanji": "蛇",
-    "hiragana": "ヘビ",
+    "kana": "ヘビ",
     "emoji": "🐍",
     "word": "snake"
   },
   {
     "kanji": "亀",
-    "hiragana": "カメ",
+    "kana": "カメ",
     "emoji": "🐢",
     "word": "turtle"
   }

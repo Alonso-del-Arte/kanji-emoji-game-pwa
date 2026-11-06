@@ -1,37 +1,37 @@
 [
   {
     "kanji": "目",
-    "hiragana": "め",
+    "kana": "め",
     "emoji": "👁️",
     "word": "eye"
   },
   {
     "kanji": "鼻",
-    "hiragana": "はな",
+    "kana": "はな",
     "emoji": "👃",
     "word": "nose"
   },
   {
     "kanji": "耳",
-    "hiragana": "みみ",
+    "kana": "みみ",
     "emoji": "👂",
     "word": "ear"
   },
   {
     "kanji": "心",
-    "hiragana": "こころ",
+    "kana": "こころ",
     "emoji": "❤️",
     "word": "heart"
   },
   {
     "kanji": "手",
-    "hiragana": "て",
+    "kana": "て",
     "emoji": "🖐️",
     "word": "hand"
   },
   {
     "kanji": "足",
-    "hiragana": "あし",
+    "kana": "あし",
     "emoji": "🦶",
     "word": "foot"
   }

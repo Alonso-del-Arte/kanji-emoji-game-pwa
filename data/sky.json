@@ -1,31 +1,31 @@
 [
   {
     "kanji": "日",
-    "hiragana": "ひ",
+    "kana": "ひ",
     "emoji": "☀️",
     "word": "sun"
   },
   {
     "kanji": "月",
-    "hiragana": "つき",
+    "kana": "つき",
     "emoji": "🌕",
     "word": "moon"
   },
   {
     "kanji": "星",
-    "hiragana": "ほし",
+    "kana": "ほし",
     "emoji": "⭐️",
     "word": "star"
   },
   {
     "kanji": "雲",
-    "hiragana": "くも",
+    "kana": "くも",
     "emoji": "☁️",
     "word": "cloud"
   },
   {
     "kanji": "雨",
-    "hiragana": "あめ",
+    "kana": "あめ",
     "emoji": "🌧️",
     "word": "rain"
   }
