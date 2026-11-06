@@ -18,10 +18,28 @@
     "word": "dragon"
   },
   {
+    "kanji": "狐",
+    "kana": "キツネ",
+    "emoji": "🦊",
+    "word": "fox"
+  },
+  {
     "kanji": "馬",
     "kana": "うま",
     "emoji": "🐎",
     "word": "horse"
+  },
+  {
+    "kanji": "鼠",
+    "kana": "ネズミ",
+    "emoji": "🐭",
+    "word": "mouse"
+  },
+  {
+    "kanji": "兎",
+    "kana": "ウサギ",
+    "emoji": "🐰",
+    "word": "rabbit"
   },
   {
     "kanji": "蛇",
