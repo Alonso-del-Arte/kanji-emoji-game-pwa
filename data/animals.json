@@ -12,9 +12,27 @@
     "word": "dog"
   },
   {
+    "kanji": "龍",
+    "hiragana": "りゅ",
+    "emoji": "🐉",
+    "word": "dragon"
+  },
+  {
     "kanji": "馬",
     "hiragana": "うま",
     "emoji": "🐎",
     "word": "horse"
+  },
+  {
+    "kanji": "蛇",
+    "hiragana": "ヘビ",
+    "emoji": "🐍",
+    "word": "snake"
+  },
+  {
+    "kanji": "亀",
+    "hiragana": "カメ",
+    "emoji": "🐢",
+    "word": "turtle"
   }
 ]
