@@ -1,8 +1,5 @@
-This project will be open to Hacktoberfest 2026. In particular I will appreciate 
-help from native Japanese speakers.
-
-However, I'm putting off opening to Hacktoberfest until October 5, I want to 
-have it show a little bit more of the concept first.
+This project will hopefully be open to Hacktoberfest 2027. In particular I will 
+appreciate help from native Japanese speakers.
 
 # Guidelines for Hacktoberfest 2026 contributors
 
