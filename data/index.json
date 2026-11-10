@@ -8,6 +8,10 @@
     "file": "humanbody.json"
   },
   {
+    "category": "Animals",
+    "file": "animals.json"
+  },
+  {
     "category": "The Sky",
     "file": "sky.json"
   },
