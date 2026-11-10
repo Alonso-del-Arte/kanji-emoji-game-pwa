@@ -26,6 +26,6 @@ Kotlin Multiplatform.
 The tile pairs will be stored in JSON files containing:
 
 * **Kanji**, such as '&#x5C71;'
-* **Kana**, usually hiragana but sometimes katakana
+* **Kana**, usually hiragana but sometimes katakana, such as "やま"
 * **Emoji**, such as '&#x1F3D4;'
 * **Word**, such as "mountain"
