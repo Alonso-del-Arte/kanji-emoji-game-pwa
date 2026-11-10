@@ -22,3 +22,5 @@ also do iOS. But I might continue working on the iOS version separately in
 Xcode. Or maybe I'll just focus on this progressive web app and not worry about 
 trying to do this native, especially because of all the Gradle headaches with 
 Kotlin Multiplatform.
+
+The tile pairs will be stored in JSON files containing kanji, kana, emoji, word.
