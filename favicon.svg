@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="Kanji Emoji Game logo.svg">
+   sodipodi:docname="favicon.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -79,15 +79,16 @@
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:67.7333px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif Bold';stroke-width:0.264583"
-       x="213.93452"
-       y="141.3631"
+       x="-273.40469"
+       y="135.31548"
        id="rightEar"
-       inkscape:transform-center-x="88.446431"
-       inkscape:transform-center-y="3.779762"><tspan
+       inkscape:transform-center-x="-88.446438"
+       inkscape:transform-center-y="3.779762"
+       transform="scale(-1,1)"><tspan
          sodipodi:role="line"
          id="tspan840"
-         x="213.93452"
-         y="141.3631"
+         x="-273.40469"
+         y="135.31548"
          style="font-size:67.7333px;stroke-width:0.264583">耳</tspan></text>
     <text
        xml:space="preserve"
