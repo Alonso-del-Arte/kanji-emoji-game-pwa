@@ -24,6 +24,12 @@
     "word": "fox"
   },
   {
+    "kanji": "羊",
+    "kana": "ヤギ",
+    "emoji": "🐐",
+    "word": "goat"
+  },
+  {
     "kanji": "馬",
     "kana": "うま",
     "emoji": "🐎",
@@ -36,16 +42,46 @@
     "word": "mouse"
   },
   {
+    "kanji": "牛",
+    "kana": "ウシ",
+    "emoji": "🐂",
+    "word": "ox"
+  },
+  {
+    "kanji": "猿",
+    "kana": "サル",
+    "emoji": "🐵",
+    "word": "monkey"
+  },
+  {
+    "kanji": "豬",
+    "kana": "ブタ",
+    "emoji": "🐖",
+    "word": "pig"
+  },
+  {
     "kanji": "兎",
     "kana": "ウサギ",
     "emoji": "🐰",
     "word": "rabbit"
   },
   {
+    "kanji": "鶏",
+    "kana": "おんどり",
+    "emoji": "🐓",
+    "word": "rooster"
+  },
+  {
     "kanji": "蛇",
     "kana": "ヘビ",
     "emoji": "🐍",
     "word": "snake"
+  },
+  {
+    "kanji": "虎",
+    "kana": "トラ",
+    "emoji": "🐯",
+    "word": "tiger"
   },
   {
     "kanji": "亀",
