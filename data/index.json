@@ -1,22 +1,27 @@
 [
   {
     "category": "Geographical Features",
-    "file": "geography.json"
+    "file": "geography.json",
+    "description": "Features of land and bodies of water"
   },
   {
     "category": "The Human Body",
-    "file": "humanbody.json"
+    "file": "humanbody.json",
+    "description": "Parts of the human body"
   },
   {
     "category": "Animals",
-    "file": "animals.json"
+    "file": "animals.json",
+    "description": "Various vertebrate animals, including animals of the Chinese zodiac"
   },
   {
     "category": "The Sky",
-    "file": "sky.json"
+    "file": "sky.json",
+    "description": "Things in the sky"
   },
   {
     "category": "Matter",
-    "file": "matter.json"
+    "file": "matter.json",
+    "description": "Various material things"
   }
 ]
